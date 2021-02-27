@@ -1,0 +1,11 @@
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.exe
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.deps.json
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.runtimeconfig.json
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.runtimeconfig.dev.json
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.dll
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\bin\Debug\netcoreapp3.1\FacadeExample.pdb
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\obj\Debug\netcoreapp3.1\FacadeExample.csprojAssemblyReference.cache
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\obj\Debug\netcoreapp3.1\FacadeExample.AssemblyInfoInputs.cache
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\obj\Debug\netcoreapp3.1\FacadeExample.AssemblyInfo.cs
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\obj\Debug\netcoreapp3.1\FacadeExample.dll
+C:\Users\axn6924\source\repos\FacadeExample\FacadeExample\obj\Debug\netcoreapp3.1\FacadeExample.pdb
